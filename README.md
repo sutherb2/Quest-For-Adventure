@@ -1,5 +1,6 @@
 # Quest-For-Adventure
-Introduction This game was originally a project assigned in my CS230 class at JSU. The instructions for the assignment allowed for a great deal of creativity (aside from the title, annoyingly). All my professor really wanted was a certain number of possible win conditions and use of various structures we talked about. This is more complex than it had to be, but I wanted to prove to myself what I could do. This small text-based game is the result.
+**Introduction:**  
+This game was originally a project assigned in my CS230 class at JSU. The instructions for the assignment allowed for a great deal of creativity (aside from the title, annoyingly). All my professor really wanted was a certain number of possible win conditions and use of various structures we talked about. This is more complex than it had to be, but I wanted to prove to myself what I could do. This small text-based game is the result.
 
 **Gameplay:** 
 This game is essentially a MUD tyoe room-exploration game. While playing, you are free to walk around, pick up items, and obtain skills...until you encounter the boss. The boss is unable to detect you until you have a certain number of items in your inventory. Each item you can collect has different attack and defense values, and some even have unique attributes (like they can be used an infinite number of times).
